@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App Skeleton</string>
+    <string name="edit_message">VVVVVVVVV</string>
+    <string name="button_get">Get</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">NEWONE</string>
+</resources>

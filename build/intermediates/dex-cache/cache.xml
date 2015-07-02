@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/a/Prog/android/AppSkeleton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/a/Prog/android/AppSkeleton/app/build/intermediates/pre-dexed/debug/classes-0e00e4601d8ac409fcd9819e543751882fb07e50.jar" />
+    </item>
+    <item
+        jar="/Users/a/Prog/android/AppSkeleton/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/a/Prog/android/AppSkeleton/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-1e1a1918ec4d3bd4317de7795b34399e3e8ad5b2.jar" />
+    </item>
+    <item
+        jar="/Users/a/Prog/android-ndk-r10b/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/a/Prog/android/AppSkeleton/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-7d6a8ea1968475d1e3294c24cec0a39c1004c7b6.jar" />
+    </item>
+    <item
+        jar="/Users/a/Prog/android/AppSkeleton/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/a/Prog/android/AppSkeleton/app/build/intermediates/pre-dexed/debug/classes-769e6d21fba012bae4a10dceb87535d7224fa7f6.jar" />
+    </item>
+
+</items>
